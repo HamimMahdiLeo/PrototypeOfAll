@@ -45,6 +45,8 @@ namespace PrototypeOfAll
             AgeTextBox.Text = age.ToString();
         }
 
+        //this is a test comment
+
         private void CategoryComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
             string category = CategoryComboBox.Text;
